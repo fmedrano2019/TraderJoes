@@ -37,12 +37,12 @@ Once the kernel is set up, you can follow the directions below to generate stock
 ![Project Pipeline](ML&#32;Capstone&#32;Project&#32;Pipeline&#32;Diagram.png)
 
 ## Best Predictions
-![Closing Price Predictions](3-day/3day_valandtestpreds.png)
-**Evaluation Metrics**
-RMSE: 4.392873168100863
-NRMSE: 0.08778723196900982
-MAE: 3.4930291175842285
-MAPE: 0.023454753682017326
+![Closing Price Predictions](3-day/3day_valandtestpreds.png)  
+**Evaluation Metrics**  
+RMSE: 4.392873168100863  
+NRMSE: 0.08778723196900982  
+MAE: 3.4930291175842285  
+MAPE: 0.023454753682017326  
 
 ## wGAN-GP Generator and Discriminator Execution Traces
 ### Generator
