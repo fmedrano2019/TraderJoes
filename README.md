@@ -32,3 +32,11 @@ Once the kernel is set up, you can follow the directions below to generate stock
 1. Run the ARIMA notebook to generate ARIMA predictions for the dataset.
 2. Run the AE (autoencoder) notebook to produced the autoencoded feature set.
 3. Run the respective wGAN-GP notebook for final predictions.
+
+## Full Project Pipeline
+![Project Pipeline](ML Capstone Project Pipeline Diagram.png)
+
+## Best Predictions
+![Closing Price Predictions](3-day/3day_valandtestpreds.png)
+
+
