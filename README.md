@@ -1,4 +1,4 @@
-# How to run the wGAN-GP Prediction Model
+# How to run the wGAN-GP Stock Prediction Model
 
 Detailed below is a stepped instructional to generate predictions with the wGAN-GP prediction model.
 
@@ -49,4 +49,6 @@ MAPE: 0.023454753682017326
 ![Generator Execution Trace](3-day/3day_generatorArch-1.png)
 ### Discriminator
 ![Discriminator Execution Trace](3-day/3day_discriminatorArch-1.png)
+
+*This project was inspired by [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d#5ec4)*
 
