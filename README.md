@@ -6,10 +6,12 @@ Detailed below is a stepped instructional to generate predictions with the wGAN-
 ## Required Files
 
 All the listed files must exist within the same directory on your machine.
-- wGAN-GP model notebook (located in their respective directories)
+- wGAN-GP model notebook* (located in their respective directories)
 - ARIMA Model Notebook
 - AE (autoencoder) Notebook
 - fulldata.csv (located in the data directory)
+
+**Directions which follow are equivalent for all forms of the wGAN-GP model (3-day, 5-day, etc).**
 
 ## Kernel Set Up
 The following packages must be installed in the kernel you wish to run the notebooks with. These notebooks use Python 3.9.13.
