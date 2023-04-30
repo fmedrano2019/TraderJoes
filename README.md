@@ -34,7 +34,7 @@ Once the kernel is set up, you can follow the directions below to generate stock
 3. Run the respective wGAN-GP notebook for final predictions.
 
 ## Full Project Pipeline
-![Project Pipeline](ML Capstone Project Pipeline Diagram.png)
+![Project Pipeline](ML&#32;Capstone&#32;Project&#32;Pipeline&#32;Diagram.png)
 
 ## Best Predictions
 ![Closing Price Predictions](3-day/3day_valandtestpreds.png)
