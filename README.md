@@ -40,6 +40,8 @@ Once the kernel is set up, you can follow the directions below to generate stock
 ![Closing Price Predictions](3-day/3day_valandtestpreds.png)
 
 ## wGAN-GP Generator and Discriminator Execution Traces
+### Generator
 ![Generator Execution Trace](3-day/3day_generatorArch-1.png)
+### Discriminator
 ![Discriminator Execution Trace](3-day/3day_discriminatorArch-1.png)
 
