@@ -39,4 +39,6 @@ Once the kernel is set up, you can follow the directions below to generate stock
 ## Best Predictions
 ![Closing Price Predictions](3-day/3day_valandtestpreds.png)
 
+## Generator and Discriminator Execution Traces
+<embed src="3-day/3day_discriminatorArch.pdf" type"application/pdf">
 
