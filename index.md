@@ -7,8 +7,8 @@ Shayne Biagi
 Andrew Istfan  
 Franco Medrano  
 
-## Table of Content
-* Overview
+## Table of Contents
+* [Overview](overview.md)
 * Approach
 * Sentiment Analysis
 * Feature Engineering
