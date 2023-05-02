@@ -41,10 +41,10 @@ Once the kernel is set up, you can follow the directions below to generate stock
 ## Best Predictions
 ![Closing Price Predictions](3-day/visuals_withSentiment/3day_valandtestpreds.png)  
 **Evaluation Metrics**  
-RMSE: 4.392873168100863  
-NRMSE: 0.08778723196900982  
-MAE: 3.4930291175842285  
-MAPE: 0.023454753682017326  
+RMSE: 4.401446815516941  
+NRMSE: 0.08795856784549294  
+MAE: 3.4469847679138184  
+MAPE: 0.022908411920070648  
 
 ## wGAN-GP Generator and Discriminator Execution Traces
 ### Generator
