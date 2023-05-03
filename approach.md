@@ -23,7 +23,12 @@
         - Relative Strength Index
         - Simple Moving Averages for Close and Volume
         - Moving Average Convergence/Divergence
-    - Below demonstrates an example of the use of technical indicators by showing the correlation of SMA 7 (Green), SMA 21 (Red), Upper Band (Cyan), Lower Band (Cyan), and Closing Price of $AAPL (Dark Blue) over last 400 days.
+    - Below demonstrates an example of the use of technical indicators over the last 400 days by showing the correlation of: 
+        - SMA 7 (Green)
+        - SMA 21 (Red)
+        - Upper Band + Lower Band (Cyan)
+        - Closing Price of $AAPL (Dark Blue)
+
     ![Correlation of Techinical Indicators](TechnicalIndicatorCorrelation.png)
 - Feature Extraction (***Note:*** *While attempted, autoencoding did not offer tangible model improvements*)
     - An autoencoder is used to produce a set of compressed features from the combination of basic and technical indicators.
@@ -37,7 +42,7 @@
  - Below demonstrates the recorded sentiment values of $AAPL stock over the duration of our dataset.
  ![Sentiment Analysis Results](SentimentAnalysisResults.png)
 
- ## Prediction Model
+## Prediction Model
  - After feature engineering, our final set of compressed technical indicators is appended with the sentiment scores from the fundamental analysis and fed into a wGAN-GP model for training.
  - wGAN-GP Model Description
     - Wasserstein distance is used as a loss function for promotion of training stability.
@@ -45,9 +50,10 @@
     - Generator is an LSTM with input units equal to the final number of features and 512 hidden units, leading into a final linear layer with a single output for the closing price of each day.
     - Discriminator is a 13-Layer CNN composed of 1-D Convolutional, LeakyReLU, and Dense layers.
 - Model is tuned with a predefined grid search.
-- Generator
+
+### Generator
 ![Generator](./3-day/visuals_withSentiment/3day_generatorArch-1.png)
-- Discriminator
+### Discriminator
 ![Discriminator](./3-day/visuals_withSentiment/3day_discriminatorArch-1.png)
 
 

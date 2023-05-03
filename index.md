@@ -24,7 +24,6 @@ Franco Medrano
 ## Table of Contents
 * [Overview](overview.md)
 * [Approach](approach.md)
-* [Sentiment Analysis](sentimentanalysis.md)
 * [Results](results.md)
 * [Future Work](futurework.md)
 * [Conclusion](conclusion.md)
