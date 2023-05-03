@@ -22,14 +22,14 @@ Franco Medrano
 
 
 ## Table of Contents
-* [Overview](overview.md)
-* [Approach](approach.md)
-* [Results](results.md)
-* [Future Work](futurework.md)
-* [Conclusion](conclusion.md)
+* [Overview](website/overview.md)
+* [Approach](website/approach.md)
+* [Results](website/results.md)
+* [Future Work](website/futurework.md)
+* [Conclusion](website/conclusion.md)
 
 
 ## Links to External Project Materials
-* [Final paper]()
+* [Final paper](https://www.overleaf.com/read/zzfvbwfpcwzx)
 * [Code](https://github.com/fmedrano2019/TraderJoes)
 * [Final presentation](https://docs.google.com/presentation/d/1UBZJrLaaTjLOth7BpB9m8Z-hk4cd9XvNrKn3eAoHO90/edit?usp=sharing)

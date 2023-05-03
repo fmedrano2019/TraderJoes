@@ -12,7 +12,7 @@
 - State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since.
 
 # Full Project Pipeline
-![Project Pipeline](ML&#32;Capstone&#32;Project&#32;Pipeline&#32;Diagram.png)
+![Project Pipeline](ML%20Capstone%20Project%20Pipeline%20Diagram.png)
 
 # How to run the wGAN-GP Stock Prediction Model
 
