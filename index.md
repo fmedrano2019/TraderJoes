@@ -9,10 +9,10 @@ Franco Medrano
 
 ## Table of Contents
 * [Overview](overview.md)
-* Approach
-* Sentiment Analysis
-* Feature Engineering
-* Results
-* Future Work
-* Conclusion
+* [Approach](approach.md)
+* [Sentiment Analysis](approach.md)
+* [Feature Engineering](approach.md)
+* [Results](approach.md)
+* [Future Work](approach.md)
+* [Conclusion](approach.md)
 
