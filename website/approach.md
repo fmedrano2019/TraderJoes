@@ -13,7 +13,7 @@
         - $MSFT
         - $AMZN
         - $SP500
-- Tweets mentioning “$AAPL” and “AAPL” are scraped from Twitter.
+- Tweets mentioning "$AAPL" and "AAPL" are scraped from Twitter.
 - The dataset includes data from 05/09/2013 to 03/31/2023
 
 ## Technical Analysis
@@ -53,6 +53,6 @@
 - Model is tuned with a predefined grid search.
 
 ### Generator
-![Generator](/3-day/visuals_withSentiment/3day_generatorArch-1.png)
+![Generator](../3-day/visuals_withSentiment/3day_generatorArch-1.png)
 ### Discriminator
-![Discriminator](/3-day/visuals_withSentiment/3day_discriminatorArch-1.png)
+![Discriminator](../3-day/visuals_withSentiment/3day_discriminatorArch-1.png)
