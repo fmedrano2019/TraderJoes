@@ -2,10 +2,24 @@
 
 This project seeks to rely on recent deep learning and technical analysis advancements to generate predictions of short term price movements for the Apple stock, `$AAPL`.
 
-## Members
+## Members and Contributions
 Shayne Biagi  
-Andrew Istfan  
+- Developed wGAN-GP Stock Prediction Model
+    - Generator
+    - Discriminator
+    - Tuning
+
+Andrew Istfan
+- Extracted basic stock indicators
+- Calculated technical indicators
+- Feature engineering
+
 Franco Medrano  
+- Created Reddit webscraper
+- Scraped Twitter data
+- Sentiment analysis
+- Variable Importance with XGBoost
+
 
 ## Table of Contents
 * [Overview](overview.md)

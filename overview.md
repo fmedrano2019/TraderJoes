@@ -1,3 +1,14 @@
+# Project Overview
+## Problem Definition
+- Accurately forecasting the stock market has always been a cornerstone of business research and development.
+- Popular trading algorithms rely too much on technical analysis of basic indicators (High, Low, Open, Close, Volume)
+- Research into inclusion of sentiment analysis only leverages official news outlets, which involve many biases.
+- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since. 
+## Our Approach
+- wGAN-GP is used over traditional GAN networks, for promotion of training stability and convergence. Improved forms of GAN networks have seen little implementation in the field of finance.
+- The usage of sentiment analysis of data coming directly from the public, rather than from biased news outlets or similar feeds.
+- Research into inclusion of sentiment analysis only leverages official news outlets, which involve many biases.
+- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since. 
 # Full Project Pipeline
 ![Project Pipeline](ML&#32;Capstone&#32;Project&#32;Pipeline&#32;Diagram.png)
 
