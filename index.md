@@ -28,3 +28,8 @@ Franco Medrano
 * [Future Work](futurework.md)
 * [Conclusion](conclusion.md)
 
+
+## Links to External Project Materials
+* [Final paper]()
+* [Code](https://github.com/fmedrano2019/TraderJoes)
+* [Final presentation](https://docs.google.com/presentation/d/1UBZJrLaaTjLOth7BpB9m8Z-hk4cd9XvNrKn3eAoHO90/edit?usp=sharing)

@@ -3,19 +3,18 @@
 - Accurately forecasting the stock market has always been a cornerstone of business research and development.
 - Popular trading algorithms rely too much on technical analysis of basic indicators (High, Low, Open, Close, Volume)
 - Research into inclusion of sentiment analysis only leverages official news outlets, which involve many biases.
-- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since. 
+- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since.
+
 ## Our Approach
 - wGAN-GP is used over traditional GAN networks, for promotion of training stability and convergence. Improved forms of GAN networks have seen little implementation in the field of finance.
 - The usage of sentiment analysis of data coming directly from the public, rather than from biased news outlets or similar feeds.
 - Research into inclusion of sentiment analysis only leverages official news outlets, which involve many biases.
-- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since. 
+- State-of-the-art deep learning models have seen very little application in this field. And the models initially explored have seen many incremental improvements since.
+
 # Full Project Pipeline
 ![Project Pipeline](ML&#32;Capstone&#32;Project&#32;Pipeline&#32;Diagram.png)
 
 # How to run the wGAN-GP Stock Prediction Model
-
-Detailed below is a stepped instructional to generate predictions with the wGAN-GP prediction model.
-
 
 ## Required Files
 
@@ -23,7 +22,7 @@ All the listed files must exist within the same directory on your machine.
 - wGAN-GP model notebook* (located in their respective directories)
 - ARIMA Model Notebook
 - AE (autoencoder) Notebook
-- fulldata.csv (located in the data directory)
+- `fulldata.csv` (located in the data directory)
 
 **Directions which follow are equivalent for all forms of the wGAN-GP model (3-day, 5-day, etc).**
 
