@@ -1,3 +1,5 @@
+[Home Page](../index.md)
+
 # Conclusion
 - Through the implementation of a wGAN-GP model and incorporation of sentiment from retail investors, our model was able to yield promising results that may be difficult to rely on for single day trading, yet extremely useful for longer-termed swing trades. 
 - After the conclusion of tuning, the following hyperparameters were selected for their performance on the validation set:

@@ -1,3 +1,5 @@
+[Home Page](../index.md)
+
 # Approach
 ## Datasets
 - The TDAmeritrade API was resposnible for compiling basic finacial data for $AAPL and a number of comparative assests over the past 10 years including:

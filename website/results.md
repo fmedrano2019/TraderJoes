@@ -1,3 +1,5 @@
+[Home Page](../index.md)
+
 # Best Predictions
 The best prediction set returned by the model was with a 3-day sliding window, including sentiment scored from Twitter. The model takes 3 days of basic indicators as input and outputs the predicted closing price of the 4th day.
 After tuning, the following hyperparameters were chosen for their performance on the validation set:
