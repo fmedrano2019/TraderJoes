@@ -24,9 +24,9 @@ Franco Medrano
 ## Table of Contents
 * [Overview](overview.md)
 * [Approach](approach.md)
-* [Sentiment Analysis](approach.md)
-* [Feature Engineering](approach.md)
-* [Results](approach.md)
-* [Future Work](approach.md)
-* [Conclusion](approach.md)
+* [Sentiment Analysis](sentimentanalysis.md)
+* [Feature Engineering](featureengineering.md)
+* [Results](results.md)
+* [Future Work](futurework.md)
+* [Conclusion](conclusion.md)
 
