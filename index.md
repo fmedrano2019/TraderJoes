@@ -8,6 +8,8 @@ Shayne Biagi
     - Generator
     - Discriminator
     - Tuning
+- Developed ARIMA Model
+- Developed Autoencoder
 
 Andrew Istfan
 - Extracted basic stock indicators
@@ -32,4 +34,4 @@ Franco Medrano
 ## Links to External Project Materials
 * [Final paper](https://www.overleaf.com/read/zzfvbwfpcwzx)
 * [Code](https://github.com/fmedrano2019/TraderJoes)
-* [Final presentation](https://docs.google.com/presentation/d/1UBZJrLaaTjLOth7BpB9m8Z-hk4cd9XvNrKn3eAoHO90/edit?usp=sharing)
+* [Final presentation](https://github.com/fmedrano2019/TraderJoes/blob/main/Final%20Presentation.pdf)
