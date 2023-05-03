@@ -41,7 +41,8 @@ Once the kernel is set up, you can follow the directions below to generate stock
 ## Best Predictions
 ![Closing Price Predictions](3-day/visuals_withSentiment/3day_valandtestpreds.png)  
 These results were gained from the 3-day wGAN-GP model.  
-**Evaluation Metrics**  
+  
+**Evaluation Metrics:**  
 RMSE: 4.401446815516941  
 NRMSE: 0.08795856784549294  
 MAE: 3.4469847679138184  
