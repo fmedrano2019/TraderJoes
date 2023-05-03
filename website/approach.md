@@ -53,11 +53,6 @@
 - Model is tuned with a predefined grid search.
 
 ### Generator
-![Generator](./3-day/visuals_withSentiment/3day_generatorArch-1.png)
+![Generator](/3-day/visuals_withSentiment/3day_generatorArch-1.png)
 ### Discriminator
-![Discriminator](./3-day/visuals_withSentiment/3day_discriminatorArch-1.png)
-
-
-
-
-
+![Discriminator](/3-day/visuals_withSentiment/3day_discriminatorArch-1.png)

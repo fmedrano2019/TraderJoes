@@ -13,4 +13,4 @@
 - This translates to our model achieving predictions within an error of $3.50 or 2.3% off the actual stock price on average.
 - Our final predictions over the validation and testing datasets are demonstrated below:
 
-![Validation and Testing Dataset](./3-day/visuals_withSentiment/3day_valandtestpreds.png)
+![Validation and Testing Dataset](/3-day/visuals_withSentiment/3day_valandtestpreds.png)
