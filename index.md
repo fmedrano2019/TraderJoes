@@ -32,6 +32,6 @@ Franco Medrano
 
 
 ## Links to External Project Materials
-* [Final paper](https://www.overleaf.com/read/zzfvbwfpcwzx)
+* [Final paper]([https://www.overleaf.com/read/zzfvbwfpcwzx](https://github.com/fmedrano2019/TraderJoes/blob/main/Final%20Paper.pdf))
 * [Code](https://github.com/fmedrano2019/TraderJoes)
 * [Final presentation](https://github.com/fmedrano2019/TraderJoes/blob/main/Final%20Presentation.pdf)
